@@ -239,4 +239,4 @@ This repository serves as the official landing page for Microsoft Defender. The 
 **Get the most recent version of Microsoft Defender today!**
 
 ---
-**Last updated:** 2026-10-15 06:41:37 UTC
+**Last updated:** 2026-10-15 12:16:34 UTC
